@@ -13,6 +13,9 @@ namespace ConsoleApp1
 
             Console.WriteLine("OPA MILI");
 
+
+            Console.WriteLine("DODAO SAM NESTO U PRIKINI GRANU");
+
         }
     }
 }
