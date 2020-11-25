@@ -8,6 +8,10 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("OPA MILI");
+
+            /// alo momci 
+            /// 
+            Console.WriteLine("A ja reko stae");
         }
     }
 }
