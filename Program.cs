@@ -7,9 +7,12 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+
             Console.WriteLine("IZMJENA");
             Console.WriteLine("DRUGA IZMJENA");
-            Console.WriteLine("DRUGAa IZMJENA");
+
+            Console.WriteLine("OPA MILI");
+
         }
     }
 }
